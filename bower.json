@@ -15,7 +15,6 @@
   "dependencies": {},
   "main": [
     "pnotify.js",
-    "pnotify.custom.min.js",
     "pnotify.custom.min.css"
   ],
   "ignore": [],
