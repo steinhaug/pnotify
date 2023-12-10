@@ -1,0 +1,18 @@
+{
+  "name": "steinhaug/pnotify",
+  "description": "",
+  "authors": [
+    {
+      "name": "Kim Steinhaug",
+      "homepage": "https://github.com/steinhaug"
+    }
+  ],
+  "keywords": [
+  ],
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "homepage": "https://steinhaug.github.io/pnotify/",
+  "require": {
+  }
+}

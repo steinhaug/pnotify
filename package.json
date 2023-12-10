@@ -1,0 +1,33 @@
+{
+  "name": "pnotify-js",
+  "version": "3.0.0",
+  "description": "",
+  "keywords": [
+    "select",
+    "multiselect",
+    "dropdown",
+    "form",
+    "input",
+    "ui"
+  ],
+  "homepage": "https://steinhaug.github.io/pnotify/",
+  "bugs": "https://github.com/steinhaug/pnotify/issues",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Kim Steinhaug",
+      "url": "https://github.com/steinhaug"
+    }
+  ],
+  "dependencies": {},
+  "files": [
+    "pnotify.js",
+    "pnotify.custom.min.js",
+    "pnotify.custom.min.css"
+  ],
+  "main": "pnotify.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steinhaug/pnotify.git"
+  }
+}

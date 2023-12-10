@@ -1,0 +1,26 @@
+{
+  "name": "pnotify",
+  "description": "",
+  "keywords": [
+  ],
+  "version": "3.0.0",
+  "homepage": "https://steinhaug.github.io/pnotify/",
+  "license": "https://github.com/steinhaug/pnotify/blob/master/LICENSE.md",
+  "authors": [
+    {
+      "name": "Kim Steinhaug",
+      "url": "https://github.com/steinhaug"
+    }
+  ],
+  "dependencies": {},
+  "main": [
+    "pnotify.js",
+    "pnotify.custom.min.js",
+    "pnotify.custom.min.css"
+  ],
+  "ignore": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steinhaug/pnotify.git"
+  }
+}
