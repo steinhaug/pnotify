@@ -1,4 +1,4 @@
-# pnotify 3.0.0
+# pnotify 3.2.2
 
 ...
 
